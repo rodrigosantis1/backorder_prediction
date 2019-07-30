@@ -18,4 +18,4 @@ into numeric attributes and saving into a smaller and consolidated file.
 ## Reference
 R. B. Santis, E. P. Aguiar and L. Goliatt, "Predicting Material Backorders in Inventory Management using Machine Learning," 4th IEEE Latin American Conference on Computational Intelligence, Arequipa, Peru, 2017.
 
-Available from: https://www.researchgate.net/publication/319553365_Predicting_Material_Backorders_in_Inventory_Management_using_Machine_Learning
+Available at: https://www.researchgate.net/publication/319553365_Predicting_Material_Backorders_in_Inventory_Management_using_Machine_Learning
